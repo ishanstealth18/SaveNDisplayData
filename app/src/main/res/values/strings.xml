@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SaveNDisplayData</string>
+    <string name="title_description">title_description</string>
+    <string name="personal_details">Personal Details</string>
+    <string name="address_title">address_title</string>
+    <string name="address">Address:</string>
+    <string name="postal_address_content">postal_address_content</string>
+    <string name="enter_address">Enter Address</string>
+    <string name="phone_number_content">phone_number_content</string>
+    <string name="phone">Phone:</string>
+    <string name="enter_phone">Enter Phone</string>
+    <string name="email_content">email_content</string>
+    <string name="e_mail">E-mail:</string>
+    <!--<string name="email_content">email_content</string>-->
+    <string name="enter_email">Enter email</string>
+    <string name="button_content">button_content</string>
+    <string name="submit">Submit</string>
+</resources>
